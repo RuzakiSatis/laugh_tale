@@ -30,4 +30,6 @@ info_one.addEventListener('submit', (e) => {
     document.getElementById('town_one').value = "";
     document.getElementById('color-select').value = "";
     document.getElementById('size-select').value = "";
+
+ alert("Ваші дані були успішно відправлені! Очікуйте з вами звяжеться менеджер для підтвердження замовлення!");
 });
